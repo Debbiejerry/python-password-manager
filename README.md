@@ -22,8 +22,7 @@ To get started with the Password Manager, follow these instructions:
 
 ### Prerequisites
 - Python 3.12.0 64 bit
-- Text Editor [Vscode preferred with Python Extension installed form Microsoft]
-- 
+- Text Editor [Vscode preferred with Python Extension installed from Microsoft]
   
 ### Installation
 1. Clone the repository:
