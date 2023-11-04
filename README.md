@@ -1,7 +1,5 @@
 # python-password-manager
 
-Brief description of your project.
-
 ## Table of Contents
 
 - [About](#about)
