@@ -21,8 +21,9 @@ The Password Manager is a simple Python command-line application that allows use
 To get started with the Password Manager, follow these instructions:
 
 ### Prerequisites
-List any software, libraries, or tools that need to be installed before the user can get started with your project. Include version numbers if necessary.
-- Python 3.x
+- Python 3.12.0 64 bit
+- Text Editor [Vscode preferred with Python Extension installed form Microsoft]
+- 
   
 ### Installation
 1. Clone the repository:
